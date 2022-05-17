@@ -2,6 +2,7 @@ class Github {
   constructor() {
     this.client_id = "05e64b37e89b068b43c0";
     this.client_secret = "c3ba372e7992a2f60086b20294f5d49deaef6bc9";
+    // Testing purposes only, key is invalid.
     this.repos_count = 10;
     this.repos_sort = "created:asc";
   }
